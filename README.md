@@ -1,6 +1,6 @@
-# Network-Analysis - 3rd place winner
+# Network-Analysis 
 
-understand interdepartmental communication dynamics
+understand interdepartmental communication dynamics. 3rd place winning entry 
 
 The following analysis is my entry in the Employee Network Analysis competition hosted by DataCamp. This entry finished 
 The details are as follows;
